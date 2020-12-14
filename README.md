@@ -18,7 +18,6 @@ list collected with /Applications % ls -a | sort
 |Camunda Modeler.app
 |ClipGrab.app
 |Cloudya.app
-|DBeaver 2.app
 |DBeaver.app
 |Disk Drill.app
 |Docker.app
@@ -28,8 +27,6 @@ list collected with /Applications % ls -a | sort
 |GarageBand.app
 |GitHub Desktop.app
 |Google Chrome.app
-|Install macOS Big Sur.app
-|IntelliJ IDEA 2019.1 EAP.app
 |IntelliJ IDEA CE.app
 |IntelliJ IDEA.app
 |Kindle.app
@@ -73,7 +70,6 @@ list collected with /Applications % ls -a | sort
 |dm-Fotowelt.app
 |draw.io.app
 |iMovie.app
-|jambit Self Service.app
 |zoom.us.app
 
 # M1 first setup
