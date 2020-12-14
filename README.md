@@ -7,7 +7,8 @@ My MBP 2017 has collected quite some stuff, which might not be necessary and mig
 
 list collected with /Applications % ls -a | sort
 
-||app||
+|app|
+|---|
 |Amazon Chime.app
 |Android Studio.app
 |BBEdit.app
